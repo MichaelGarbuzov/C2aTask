@@ -15,10 +15,13 @@ Before running the test, make sure you have the following software installed:
 - [npm](https://www.npmjs.com/)
 
 ## Running the Test
-
 To run the Cypress automated test, follow these steps:
 
-1. Clone this repository and navigate to the project directory:
+1. Clone this repository and navigate to the project directory.
+2. install project dependencies:
+npm install.
+Open the Cypress Test Runner.
+npx cypress open.
+3. In the Cypress Test Runner, click on "automationTest.cy.js" to execute the test script.
 
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git && cd your-repo-name
+
