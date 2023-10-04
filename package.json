@@ -1,0 +1,27 @@
+{
+  "name": "c2atask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelGarbuzov/C2aTask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelGarbuzov/C2aTask/issues"
+  },
+  "homepage": "https://github.com/MichaelGarbuzov/C2aTask#readme",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.10",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^3.11.174"
+  }
+}
